@@ -1,4 +1,6 @@
 import ipywidgets as widgets
+
+from IPython.display import display, HTML
 VOICE_GRID = [
     ["A", "B", "C", "D", "E", "F"],
     ["G", "H", "I", "J", "K", "L"],
